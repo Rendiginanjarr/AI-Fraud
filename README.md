@@ -57,42 +57,42 @@ The data set is taken from [fraud-detection-insurance](https://www.kaggle.com/sa
 
 ### Data Glossary
 
-'months_as_customer' : months as policy holder
-'age' : umur pemegang polis
-'policy_number' : nomor polis
-'policy_bind_date' : date when policy made
-'policy_state' : state where the policy made
-'policy_deductable': Policy deductable 
-'policy_annual_premium' : Yearly policy premium
-'umbrella_limit: umbrella limit of the premium
-'insured_zip': zip code of insured
-'insured_sex' : insured sex
-'insured_education_level' : insured education level
-'insured_occupation' : insured occupation
-'insured_hobbies' : insured hobbies
-'insured_relationship' : insured relationship status
-'incident_date' : reported incident date
-'incident_type' : reported incident type
-'collision_type' : reported collision type
-'incident_severity': reported incident severity
-'authorities_contacted' : contacted autorities
-'incident_state' : reported incident state 
-'incident_city' : reported incident city
-'incident_location' : reported incident location
-'incident_hour_of_the_day' : reported hour of incident
-'number_of_vehicles_involved' : number of vehicles involved
-'property_damage' : number of property damage reported
-'bodily_injuries' : number of bodily injuries reported
-'witnesses' : number of witnesses 
-'police_report_available' : police report avaiability 
-'total_claim_amount' : total claim amount
-'injury_claim' : total injury claim 
-'property_claim' : total property claim 
-'vehicle_claim' : total vehicle claim 
-'auto_make' : vehicle brand
-'auto_model' : vehicle model
-'auto_year' : vehicle year made 
-'fraud_reported' : fraud label
+- 'months_as_customer' : months as policy holder
+- 'age' : umur pemegang polis
+- 'policy_number' : nomor polis
+- 'policy_bind_date' : date when policy made
+- 'policy_state' : state where the policy made
+- 'policy_deductable': Policy deductable 
+- 'policy_annual_premium' : Yearly policy premium
+- 'umbrella_limit: umbrella limit of the premium
+- 'insured_zip': zip code of insured
+- 'insured_sex' : insured sex
+- 'insured_education_level' : insured education level
+- 'insured_occupation' : insured occupation
+- 'insured_hobbies' : insured hobbies
+- 'insured_relationship' : insured relationship status
+- 'incident_date' : reported incident date
+- 'incident_type' : reported incident type
+- 'collision_type' : reported collision type
+- 'incident_severity': reported incident severity
+- 'authorities_contacted' : contacted autorities
+- 'incident_state' : reported incident state 
+- 'incident_city' : reported incident city
+- 'incident_location' : reported incident location
+- 'incident_hour_of_the_day' : reported hour of incident
+- 'number_of_vehicles_involved' : number of vehicles involved
+- 'property_damage' : number of property damage reported
+- 'bodily_injuries' : number of bodily injuries reported
+- 'witnesses' : number of witnesses 
+- 'police_report_available' : police report avaiability 
+- 'total_claim_amount' : total claim amount
+- 'injury_claim' : total injury claim 
+- 'property_claim' : total property claim 
+- 'vehicle_claim' : total vehicle claim 
+- 'auto_make' : vehicle brand
+- 'auto_model' : vehicle model
+- 'auto_year' : vehicle year made 
+- 'fraud_reported' : fraud label
 
 
 
