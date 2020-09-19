@@ -5,7 +5,7 @@ This project is developed as one of [Algoritma Academy](https://algorit.ma/) Dat
 
 The skeleton for this application is separated into 2 different files: [app.py](app.py) and [helper.py](helper.py), in which the first one handles the routing and within [helper](helper.py) you would define function to be called in [app](app.py).
 
-The [Auto Insurance Fraud Analysis](Auto Insurance Fraud Analysis.ipynb) notebook contains all the tasks and explanation which will guide you to complete the given skeleton.
+The [Auto Insurance Fraud Analysis] notebook contains all the tasks and explanation which will guide you to complete the given skeleton.
 
 ## Rubrics
 
